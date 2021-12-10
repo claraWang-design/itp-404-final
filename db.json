@@ -6,7 +6,7 @@
       "body": "Body 0",
       "categoryId": "1",
       "authorId": "0 ",
-      "isFavorite": false,
+      "isFavorite": "false",
       "url": "https://images.unsplash.com/photo-1638467049185-a78254c5dfeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=982&q=80"
     },
     {
@@ -15,7 +15,7 @@
       "body": "Body 0",
       "categoryId": "1",
       "authorId": "0 ",
-      "isFavorite": false,
+      "isFavorite": "false",
       "url": 
     },
     {
