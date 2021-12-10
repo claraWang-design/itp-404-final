@@ -39,28 +39,28 @@
       "body": "Comment 0",
       "postId": "0",
       "time":"0",
-      "authorId": "0"
+      "author": "0"
     },
     {
       "id": "1",
       "body": "Comment 1",
       "postId": "1",
       "time":"0",
-      "authorId": "0",
+      "author": "0"
     },
     {
       "id": "2",
       "body": "Comment 2",
       "postId": "1",
       "time":"",
-      "authorId": "0",
+      "author": "0"
     },
     {
       "id": "3",
       "body": "Comment 3",
       "postId": "0",
       "time":"0",
-      "authorId": "0"
+      "author": "0"
     }
   ],
   "authors": [
